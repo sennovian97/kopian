@@ -1,0 +1,118 @@
+{
+    "Arabica Coffee": [{
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "1 Cup",
+            "harga": "Rp 30.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso Arabica",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "1 Cup",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "nama": "Vietnam Drip",
+            "size": "1 Cup",
+            "harga": "Rp 20.000",
+            "link": "#",
+            "foto": "https://eatlittlebird.com/wp-content/uploads/2017/08/vietnamese-coffee-1.jpg"
+        }
+    ],
+    "Robusta Coffee": [{
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "1 Cup",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "1 Cup",
+            "harga": "Rp 25.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Espresso Robusta",
+            "size": "1 Cup",
+            "harga": "Rp 15.000",
+            "link": "#",
+            "foto": "https://www.healthbenefitstimes.com/9/gallery/robusta-coffee/Robusta-Coffee.jpg"
+        },
+        {
+            "nama": "Americano",
+            "size": "1 Cup",
+            "harga": "Rp 15.000",
+            "link": "#",
+            "foto": "https://redplatter.ph/restaurant/wp-content/uploads/2016/08/Cafe-Americano-1.jpg"
+        }
+    ],
+    "Tea": [{
+            "nama": "Green Tea",
+            "size": "1 Cup",
+            "harga": "Rp 20.000",
+            "link": "#",
+            "foto": "https://www.bonvitastyle.com/wp-content/uploads/2016/02/TeaGreenPot.jpg"
+        },
+        {
+            "nama": "Black Tea",
+            "size": "1 Cup",
+            "harga": "Rp 15.000",
+            "link": "#",
+            "foto": "https://thecozycoffee.com/wp-content/uploads/2021/08/tea-1024x683.jpg"
+        },
+        {
+            "nama": "White Tea",
+            "size": "1 Cup",
+            "harga": "Rp 20.000",
+            "link": "#",
+            "foto": "https://www.10faq.com/assets/img/benefits-of-white-tea-09.jpg"
+        },
+        {
+            "nama": "Oolong Tea",
+            "size": "1 Cup",
+            "harga": "Rp 20.000",
+            "link": "#",
+            "foto": "https://hungryhijabi.co.uk/wp-content/uploads/2020/03/organic-hot-oolong-tea-AC97FHK-scaled.jpg"
+        }
+    ],
+    "Snack": [{
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "Pisang Coklat",
+            "size": "1 Porsi",
+            "harga": "Rp 15.000",
+            "link": "#",
+            "foto": "https://cdn.idntimes.com/content-images/community/2020/11/fromandroid-ed5e47371069e7f1b6756fda83615191.jpg"
+        },
+        {
+            "nama": "Lumpia Goreng",
+            "size": "1 Porsi",
+            "harga": "Rp 20.000",
+            "link": "#",
+            "foto": "https://caramembuat.id/wp-content/uploads/2022/06/Cara-Membuat-Lumpia-Goreng-Semarang.jpg"
+        },
+        {
+            "nama": "Tempe Mendoan",
+            "size": "1 Porsi",
+            "harga": "Rp 10.000",
+            "link": "#",
+            "foto": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/11/30/750068208.jpg"
+        }
+    ]
+}
